@@ -1,5 +1,6 @@
 import cv2 as cv
 
+# basicos de openCVcv
 img = cv.imread('Dogs/dog5.jfif')
 
 cv.imshow('Dog', img)
