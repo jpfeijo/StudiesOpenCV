@@ -10,5 +10,8 @@ cv.imshow('Dog', img)
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 cv.imshow('Gray', gray)
 
+#blur
+
+
 cv.waitKey(0)
  
